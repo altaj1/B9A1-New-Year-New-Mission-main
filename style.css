@@ -1,0 +1,296 @@
+*{
+    
+}
+.header {
+  margin: 50px 100px 50px 120px;
+}
+.banner {
+  text-align: center;
+  background-image: url("./resources/Banner\ Image.png");
+  height: 600px;
+  background-repeat: no-repeat;
+}
+.celebration{
+    padding: 100px 150px 180px 150px;
+}
+.happy {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 0px ;
+}
+.year {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+  margin-top: 3px;
+}
+.discount {
+  margin: 120px 399px 120px 399px;
+}
+.off {
+  text-align: center;
+}
+.off {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+.holiday {
+  color: #f00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 48px;
+  margin-bottom: 0px;
+}
+.cataegories {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+.party{
+    background-image:url("./resources/Vectorrr.png") ;
+    height: 600px;
+   background-repeat: no-repeat;
+   margin: 50px 140px 50px 140px; 
+   
+   
+}
+.midnight{
+    display: flex;
+}
+.welcome{
+    margin: 80px;
+}
+.new-year{
+    margin: 68px 120px 67px 100px;
+}
+.welcomeTo{
+    color: #FFF;
+
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+}
+.welcomeText{
+    color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+}
+.button-class{
+    padding-left: 40px;
+}
+.button{
+    color: #FFF;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(102, 19, 102);
+
+}
+.button:hover{
+    background-color: skyblue ;
+}
+.container{
+    background-image:linear-gradient(rgb(226, 213, 213), rgba(255, 0, 0, 0)) ;
+    margin: 140px 140px 0px 140px;
+    border-radius: 5px;
+}
+.place{
+   
+    text-align: center;
+    
+    height: 250px;
+    padding: 100px 290px 126px 385px;
+}
+.placeDateTime{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+}
+.placeGroupe{
+    color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.joinNowButton{
+    border-radius: 8px;
+background: #F00;
+display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.joinNowButton:hover{
+    background-color: rgb(210, 229, 237) ;
+}
+.bastOffer{
+display: flex;
+margin-top:180px ;
+
+
+text-align: center;
+}
+.bastBody{
+    margin:50px 20px 30px 0px;
+    padding: 70px;
+    background-color: rgb(170, 180, 188);
+    border-radius: 5px;
+    border: 2px salmon;
+    box-shadow:5px 3px rgb(203, 140, 128) ;
+}
+.bodyimg{
+    margin:0px 80px 50px 0px;
+    padding: 40px; 
+
+    border-radius: 100%;
+    border: 10px solid #426314;
+    box-shadow:5px 5px rgb(214, 42, 7) ;
+    
+   
+    
+}
+.dolorbody{
+    margin:50px 20px 30px 0px;
+    padding: 70px;
+    background-color: rgb(170, 180, 188);
+    border-radius: 5px;
+    border: 2px salmon;
+    box-shadow:5px 3px rgb(203, 140, 128) ;
+}
+.holidays{
+    margin-top: 50px;
+}
+.holidaySale{
+    text-align: center;
+    padding: 50px;
+    margin: 70px 80px 0px 80px;
+
+}
+.thisIsFunction{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holidaytaitel{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.holidayred{
+    color: #F00; 
+}
+.holidayText{
+    color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px;
+}
+.holidayimg{
+    background-image: url("./resources/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+}
+.feleximg{
+display: flex;
+}
+.soppingGirle{
+    background-image: url("./resources/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    background-position: top end;
+    margin-bottom: 0px;
+    width: 429px;
+height: 433px;
+flex-shrink: 0;  
+}
+.megaDiscount{
+   margin: 30px 150px 80px -150px ;
+}
+.theBestGift{
+    margin-top: 100px;
+}
+.theBest{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.awesome{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.rectangle{
+    display: flex;
+    margin-right: 30px;
+    
+}
+.rectangleImg{
+    margin: 5px;
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+
+}
