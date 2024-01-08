@@ -181,12 +181,16 @@ text-align: center;
     box-shadow:5px 3px rgb(203, 140, 128) ;
 }
 .bodyimg{
-    margin:0px 80px 50px 0px;
-    padding: 40px; 
+     margin:120px 80px 50px 50px; 
+    padding: 30px;
+    padding-top: 30px; 
 
-    border-radius: 100%;
+    border-radius: 463px;
     border: 10px solid #426314;
     box-shadow:5px 5px rgb(214, 42, 7) ;
+    width: 463px;
+height: 370px;
+
     
    
     
@@ -285,12 +289,72 @@ text-transform: capitalize;
 .rectangle{
     display: flex;
     margin-right: 30px;
+    margin-top: 80px;
     
 }
 .rectangleImg{
-    margin: 5px;
+    margin: 5px -10px;
     width: 400px;
-    height: 350px;
+    height: 360px;
     padding: 10px;
 
+}
+.subscribe{
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+ margin: 180px 140px 0px 140px ; 
+
+
+}
+.newsletter{
+    
+    margin-top: 100px;
+    text-align: center;
+    height: 500px;
+    
+}
+.newsletterimg{
+   padding-top: 100px;
+    height: 150px;
+}
+.subscribeletter{
+    margin: 0px 300px 100px 300px;
+    
+}
+.inputField{
+    
+height: 55px;
+flex-shrink: 0;
+ border-radius: 5px; 
+background: #FFF;
+border: #eee0e0;
+width: 300px;
+}
+.footerSec{
+    background: #070211;
+}
+.footerbody{
+    display: flex;
+    justify-content: space-around;
+}
+.futterParagrap{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px;
+}
+.footerImg{
+    display: flex;
+    justify-content: center;
+    margin-left: 120px;
+}
+.footerImgCon{
+    margin: 15px;
+}
+.lastFooter{
+    display: flex;
+    justify-content: space-around;
 }
